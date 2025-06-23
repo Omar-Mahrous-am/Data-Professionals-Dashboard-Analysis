@@ -35,7 +35,7 @@ The Power BI dashboard includes:
 
 - `DATA PROFESSIONAL SURVEY BREAKDOWN.pbix` — The Power BI report file.
 - `README.md` — Project documentation.
-- `/images` — *(Optional: Include screenshots of your dashboard here)*
+- `/images` — 
 
 ## 📸 Dashboard Preview
 
