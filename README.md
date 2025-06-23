@@ -39,7 +39,7 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 
-> *(You can add one or more screenshots of your dashboard here to give viewers a quick look at your work.)*
+> Screen Shot file for the Dashboard : Screeshot_for_Dashboard.png
 
 ## 🚀 Getting Started
 
